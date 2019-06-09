@@ -1,2 +1,2 @@
 # cbltools
-Interact with Pure Investments' global crypto blacklist at https://cbl.tools.
+Interact with Astronaut's global crypto blacklist at https://cbl.tools.
